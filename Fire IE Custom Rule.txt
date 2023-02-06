@@ -1,0 +1,17 @@
+[Fire-IE 0.4.6.2]
+! Checksum: Coze56lsviUvln2uIiODoQ
+! [Custom rule group]/custom
+||ccb.com^
+||ccb.com.cn^
+||abchina.com.cn^
+||hebbank.com^
+||cndhl.com^
+||hb96369.com^
+||gov.cn^
+||edu.cn^
+||org.cn^
+||xtbank.com^
+||hdcb.cn^
+||nbcb.com.cn^
+||ecitic.com^
+||jn-bank.com^
