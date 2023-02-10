@@ -20,3 +20,13 @@ Fire IE默认规则+自定义规则，可以自动适应大部分IE only网站�
 ## Pale Moon下载地址
 
 [Pale Moon for Windows](http://www.palemoon.org/download.shtml)
+
+## Pale Moon最低系统要求
+
+🛑 Windows7SP1或更高版本，Server2008R2或更高版本
+
+🛑 支持 SSE2指令的处理器
+
+🛑 平均使用至少2 GB 的内存空闲
+
+🛑 至少300MB 的可用(未压缩)磁盘空间
