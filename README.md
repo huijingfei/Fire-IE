@@ -7,7 +7,7 @@
 
 ## Fire IE安装方法
 
-[我的博客](https://huijingfei.github.io/2023/01/30/Pale-Moon/)
+[我的博客](https://huijingfei.github.io/2023/01/30/Pale-Moon/) Pale Moon安装Fire IE实现双核浏览器功能。 
 
 ## 规则反馈
 
