@@ -5,7 +5,6 @@
 ||ccb.com.cn^
 ||abchina.com.cn^
 ||hebbank.com^
-||cndhl.com^
 ||hb96369.com^
 ||gov.cn^
 ||edu.cn^
@@ -15,4 +14,3 @@
 ||nbcb.com.cn^
 ||ecitic.com^
 ||jn-bank.com^
-||5idhl.com^
