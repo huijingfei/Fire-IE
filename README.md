@@ -1,9 +1,10 @@
 ## Fire IE 插件下载地址
 
-[插件地址](https://github.com/yxl/Fire-IE/releases/download/0.4.6.2/fireie-0.4.6.2-unified.xpi)
+[Fire IE](https://github.com/yxl/Fire-IE/releases/download/0.4.6.2/fireie-0.4.6.2-unified.xpi)
 
 [自定义规则](https://raw.githubusercontent.com/huijingfei/Fire-IE/main/Fire%20IE%20Custom%20Rule.txt)    
 
+[Fire IE (FireIE, Enhanced IE)](https://addons.thunderbird.net/en-us/firefox/addon/fire-ie/?src=ss)
 
 ## Fire IE安装方法
 
@@ -30,6 +31,10 @@ Fire IE默认规则+自定义规则，可以自动适应大部分IE only网站�
 🛑 平均使用至少2 GB 的内存空闲
 
 🛑 至少300MB 的可用(未压缩)磁盘空间
+
+### 其他插件推荐
+
+[ublock](https://github.com/gorhill/uBlock-for-firefox-legacy) [FireSSH](https://addons.palemoon.org/addon/firessh/) [Australium Theme](https://addons.palemoon.org/addon/australium/)
 
 ## Pale Moon 简介
 
